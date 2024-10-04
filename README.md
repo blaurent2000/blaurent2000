@@ -4,6 +4,7 @@
 <img src ="https://badge.mediaplus.ma/darkblue/blaurent?1337Badge=off&UM6P=off">
 </p>
 
+# Skills
 [![Skills](https://skillicons.dev/icons?i=python,js,django,nodejs,react,java,c,cpp,cs,docker,git,linux,bash,bots,html)](https://skillicons.dev)
 
 # Most used languages
