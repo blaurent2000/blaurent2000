@@ -8,5 +8,5 @@
 
 # Most used languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PearsxgsrgsftdghfgdhfgtdhceKof&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="PearceKof" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PearceKof&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="PearceKof" />
 </p>
