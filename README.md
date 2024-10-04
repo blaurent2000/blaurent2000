@@ -1,5 +1,4 @@
 ## Hey :)
-19 student
 <p align="left">  
 <img src ="https://badge.mediaplus.ma/darkblue/blaurent?1337Badge=off&UM6P=off">
 </p>
