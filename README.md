@@ -5,7 +5,7 @@
 </p>
 
 # Skills
-[![Skills](https://skillicons.dev/icons?i=python,js,django,nodejs,react,c,cpp,cs,docker,git,linux,bash,bootstrap,html)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=unity,js,python,django,nodejs,react,c,cpp,cs,docker,git,linux,bash,bootstrap,html)](https://skillicons.dev)
 
 # Most used languages
 <p align="left">
