@@ -1,4 +1,4 @@
-## Hey :)
+# Hey :)
 
 19-year-old student passionate about programming, game development, and web development. I'm looking for a job in these fields.
 
