@@ -4,7 +4,7 @@
 
 <p align="left">  
 <img src ="https://badge.mediaplus.ma/darkblue/blaurent?1337Badge=off&UM6P=off">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PearceKof&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="PearceKof" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blaurent2000&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="blaurent2000" />
 </p>
 
 ## Skills
