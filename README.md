@@ -10,7 +10,7 @@
 ## Skills
 I have skills in C, C++, C#, javascript, React, Python, java, Django. I also work on small projects on unity.
 
-[![Skills](https://skillicons.dev/icons?i=unity,js,python,django,nodejs,react,c,cpp,cs,java,docker,git,linux,bash,bootstrap,html)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=unity,js,python,django,nodejs,react,c,cpp,cs,java,docker,git,bootstrap,html)](https://skillicons.dev)
 
 ## Contact
 Mail: benjamin.laurent.pro00@gmail.com
